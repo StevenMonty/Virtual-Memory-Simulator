@@ -47,7 +47,7 @@ A full UML diagram displayed lays out the Java class structures.
 ![](https://github.com/StevenMonty/Virtual-Memory-Simulator/blob/master/UML.png)
 
 ### Analysis
-[This](https://github.com/StevenMonty/Virtual-Memory-Simulator/blob/master/PRA%20Analysis.pdf) link will take you to a full algorithm analysis report comparing the performance of each of the algoriths.
+[This](https://github.com/StevenMonty/Virtual-Memory-Simulator/blob/master/PRA%20Analysis.pdf) link will take you to a full algorithm analysis report comparing the performance of each of the algorithms.
 
 
 ### Usage
