@@ -44,11 +44,11 @@ All three of the classes to represent the algorithms are descendants of a single
 This provides a single place where data structures and variables used by all of the algorithms can be declared.
 A full UML diagram displayed lays out the Java class structures.
 
-//TODO insert image.
+![](https://github.com/StevenMonty/Virtual-Memory-Simulator/blob/master/UML.png)
 
 ### Analysis
-This link will take you to a full algorithm analysis report comparing the performance of each of the algoriths.
-//TODO
+[This](https://github.com/StevenMonty/Virtual-Memory-Simulator/blob/master/PRA%20Analysis.pdf) link will take you to a full algorithm analysis report comparing the performance of each of the algoriths.
+
 
 ### Usage
 ``chmod u+x vmsim.sh // make the shell script executable ``
